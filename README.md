@@ -1,2 +1,2 @@
 # hardway3
-hardway3 exercises
+This repository contains the hardway3 exercises
